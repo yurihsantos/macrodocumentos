@@ -26,7 +26,7 @@ Torne o serviço de enviar malas diretas menos cansativo. Com esta macro você p
 
 ## 💾Instalação
 Lembre sempre de ativar as referências de código na interface do compilador. Para isso:
-- abra o Word e Excel
+- Abra o Word e Excel
 - Acesse o Visual Basic For Applications (Atalho Alt + F11)
 - Guia Ferramentas > Referências
 - Ative: Microsoft Word 16.0 Object Library
